@@ -81,7 +81,7 @@ All 11 tests should pass.
 ![truffle test](images/truffle-test.png)
 
 
-#Deploy to Rinkeby Network
+## Deploy to Rinkeby Network
 
 1. Copy .env-sample and rename it to .env
 2. Add MNEMONIC and INFURA_API_KEY values.
@@ -99,7 +99,7 @@ truffle migrate --network rinkeby
 ## Rinkbey Deployment Details
 
 1. Contract Address : https://rinkeby.etherscan.io/address/0x9d0866c616Fdb3795567e2C420a3E604f48E1Ea8
-   2.Transaction :https://rinkeby.etherscan.io/tx/0xd2119c6e6af84fdca37d2f134c5c488b771542242e54deed8bc1463276047986
+2.Transaction :https://rinkeby.etherscan.io/tx/0xd2119c6e6af84fdca37d2f134c5c488b771542242e54deed8bc1463276047986
 
 ## How to mint tokens after deployment to rinkeby
 
@@ -110,8 +110,10 @@ https://rinkeby.etherscan.io/token/0x9d0866c616Fdb3795567e2C420a3E604f48E1Ea8
 
 ![truffle migrate](images/token-details.png)
 
-https://testnets.opensea.io/assets/drukhousing
+
 ## Opensea Marketplace
+
+https://testnets.opensea.io/assets/drukhousing
 
 
 
